@@ -1,0 +1,71 @@
+h4,h5,h6{ color:white;}
+li{color:white;}
+a{ color:white; align-items:center;}
+.container{
+    padding:20px;
+}
+.row{
+display: flex;
+    justify-content: space-around;
+    padding:30px;
+}
+
+.container1{
+    padding:5px;
+    position: relative;
+    text-align: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* bottom left text */
+
+.bottom-left{
+    position:absolute;
+    bottom:8px;
+    left:16px;
+}
+.content p{
+    color:white;
+    font-size: medium;
+     font-weight: bold;
+}
+.fa{
+    padding:10px;
+}
+.skills p{ color:white; font-size:20px; font-weight:bold;}
+
+.bars{width: 100%;
+    background-color: #ddd;
+    height:20px; border-radius:30px;}
+.bar{
+    text-align:center;
+     color:white ; 
+    font-size:15px; font-weight: bold;
+}
+.html { width: 90%; background-color:darkcyan;
+        height:20px; border-radius:20px;} 
+ 
+.css{ width: 90%; background-color:darkcyan;
+    height:20px; border-radius:30px; }
+    
+.js{ width: 70%; background-color:darkcyan;
+        height:20px; border-radius:30px;}
+        
+.ang{ width: 60%; background-color:darkcyan;
+    height:20px; border-radius:30px;}
+
+.photo{ width: 20%; background-color:darkcyan;
+        height:20px; border-radius:30px;}
+
+.hob ul li{ font-size:20px; font-weight:italic; color:white;}
+p{ color:white;}
+
+.experience{
+    padding:5px;
+    border:2px solid #454545;
+}
+
+.media i{ color:white; font-size:medium;
+
+}
